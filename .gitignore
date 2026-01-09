@@ -1,0 +1,6 @@
+.venv
+.evn
+__pycache__/
+
+database
+instance
